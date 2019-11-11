@@ -68,7 +68,7 @@ ol {
   article {
     font-size: 110%;
     line-height: 1.4;
-    margin-bottom: 1.4rem;
+    margin-bottom: 1.3rem;
   }
   blockquote {
     padding-left: 1rem;
@@ -110,4 +110,5 @@ ol {
     padding-left: 8rem;
     max-width: 30em;
     font-size: 130%;
+  }
 }

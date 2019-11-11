@@ -20,7 +20,7 @@ html {
 
 article {
   max-width: 43em;
-  font-family: 'Crimson Text', serif;
+  font-family: "Crimson Text", serif;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -52,7 +52,6 @@ blockquote {
   font-size: 1.125rem;
   padding: 0;
   margin: 0;
-
 }
 
 .quote {
@@ -67,11 +66,10 @@ ol {
 
   html {
     margin-bottom: 1.3rem;
-  }
-  body {
     font-size: 110%;
     line-height: 1.4;
   }
+
   blockquote {
     padding-left: 1rem;
     font-size: 110%;
@@ -83,11 +81,10 @@ ol {
   html {
     margin-bottom: 1.5rem;
     margin-left: 4rem;
-  }
-  body {
     font-size: 120%;
     line-height: 1.5rem;
   }
+
   article h1 {
     line-height: 3rem;
   }
@@ -96,7 +93,7 @@ ol {
     max-width: 30em;
     font-size: 120%;
   }
-  ol {
+  article ol {
     padding-left:0;
   }
 
@@ -107,11 +104,9 @@ ol {
   html {
     margin-bottom: 1.5rem;
     margin-left: 15rem;
-  }
-  body {
     font-size: 130%;
-    line-height: 1.5rem;
   }
+
   blockquote {
     padding-left: 8rem;
     max-width: 30em;

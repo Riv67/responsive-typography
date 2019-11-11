@@ -65,10 +65,12 @@ ol {
 
 @media only screen and (min-width: 38em) {
 
-  article {
+  html {
+    margin-bottom: 1.3rem;
+  }
+  body {
     font-size: 110%;
     line-height: 1.4;
-    margin-bottom: 1.3rem;
   }
   blockquote {
     padding-left: 1rem;
@@ -78,10 +80,12 @@ ol {
 
 @media only screen and (min-width: 60em) {
 
-  article {
-    font-size: 120%;
+  html {
     margin-bottom: 1.5rem;
     margin-left: 4rem;
+  }
+  body {
+    font-size: 120%;
     line-height: 1.5rem;
   }
   article h1 {
@@ -100,10 +104,12 @@ ol {
 
 @media only screen and (min-width: 90em) {
 
-  article {
-    font-size: 130%;
+  html {
     margin-bottom: 1.5rem;
     margin-left: 15rem;
+  }
+  body {
+    font-size: 130%;
     line-height: 1.5rem;
   }
   blockquote {

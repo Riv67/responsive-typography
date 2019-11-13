@@ -22,17 +22,15 @@ html {
 article {
   max-width: 43em;
   font-family: "Crimson Text", serif;
-  padding-left: 1.3rem;
-  padding-right: 1.3rem;
 }
 
 article p {
-  padding-bottom: 1.3rem;
+  line-height: 1.3rem;
 }
 
 body {
-  margin-left: 1.3rem;
-  margin-top: 1rem;
+  margin: 1.3rem;
+  margin-top: 1.3rem;
 }
 
 article h1 {
@@ -103,6 +101,7 @@ article ol {
 
   article h1 {
     line-height: 1.5rem;
+    padding-bottom: .5rem;
   }
 
   blockquote {
